@@ -1,0 +1,4 @@
+/* Target all elements and set their text color to green */
+body {
+  color: green;
+}
